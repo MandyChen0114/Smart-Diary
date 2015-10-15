@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能日志</string>
+    <string name="action_settings">设置</string>
+    <string name="title_section1">地图</string>
+    <string name="title_section2">记录</string>
+    <string name="title_section3">日常活动图</string>
+    <string name="title_section4">时间分布图</string>
+    <string name="title_section5">生活质量图</string>
+    
+    <string name="error_network">搜索失败,请检查网络连接！</string>
+    <string name="error_key">key验证无效！</string>
+    <string name="error_other">未知错误，请稍后重试!</string>
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+
+</resources>
